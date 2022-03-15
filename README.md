@@ -1,6 +1,9 @@
 # Vanced-Backup
 Backup all Final Version of Youtube Vanced / Youtube Music / Vanced Manager 
 
+ Since Vanced team killed by Google then i will share this APKs and the Source code
+
+
 Also you can direct download in here
 
 - Vanced Manager : https://files.aqinshare.my.id/upload/eOvMgRrt.apk
@@ -15,7 +18,7 @@ Also you can direct download in here
 
 ### why i'm backup this file ?
 
-this is a great app , and great mods i've ever seen ..
+this is a great app and great mods i've ever seen ..
 so i decided to backup this file 
 
 ### where i get the source code ?
