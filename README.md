@@ -7,6 +7,6 @@ Also you can direct download in here
 
 - Vanced MicroOG : https://files.aqinshare.my.id/upload/ajQgwVSg.apk
 
-- Vaced Youtube Music : https://files.aqinshare.my.id/upload/sZraSTZh.apk
+- Vaced Youtube Music : https://files.aqinshare.my.id/upload/LAQtjzy.apk
 
 - Vanced Youtube  : https://files.aqinshare.my.id/upload/pOdxLknV.apk
